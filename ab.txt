@@ -15,3 +15,4 @@ cccccccccc
  yoasdfadsf 13:20
  
  asdfadsfddddf
+echo msg to ab file
